@@ -2,6 +2,7 @@
 <h1 align="center" style="font-weight: bold;">💻JavaScript-Conditional-Tasks💻</h1>
 
 <h2 id="layout">🎨Description:</h2>
+
 <p align="center">A collection of JavaScript examples demonstrating the use of conditional statements (if, else if, else) to solve real-world problems. This repository includes various tasks such as calculating ticket fares based on age and status, determining promotional discounts, and more. It’s perfect for beginners looking to improve their understanding of control flow in JavaScript.
 </p>
 
